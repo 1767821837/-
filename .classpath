@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="quaqua.jar"/>
+	<classpathentry kind="lib" path="src/Jdbc/c3p0-0.9.2-pre1.jar"/>
+	<classpathentry kind="lib" path="src/Jdbc/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="src/Jdbc/commons-dbutils-1.4.jar"/>
+	<classpathentry kind="lib" path="src/Jdbc/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="src/Jdbc/itcast-tools-1.4.2.jar"/>
+	<classpathentry kind="lib" path="src/Jdbc/mchange-commons-0.2.jar"/>
+	<classpathentry kind="lib" path="src/Jdbc/mysql-connector-java-5.1.28-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
